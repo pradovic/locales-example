@@ -1,0 +1,14 @@
+[
+  {
+    "id": "message_1",
+    "translation": "{{.first_name}} stize za {{.minutes}} minuta."
+  },
+  {
+    "id": "message_2",
+    "translation": "Internal server error: {{.error_message}}"
+  },
+  {
+    "id": "message_3",
+    "translation": "Received user error. Code: {{.code}}, Message: {{.error_message}}"
+  }
+]
