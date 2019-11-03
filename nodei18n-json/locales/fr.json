@@ -1,0 +1,5 @@
+{
+  "message1": "%s arrive dans %s minutes.",
+  "message2": "Internal server error: %s",
+  "message3": "Received user error. Code: %s, Message: %s",
+}

@@ -1,7 +1,7 @@
 [
   {
     "id": "message_1",
-    "translation": "{{.first_name}} stizeee za {{.minutes}} minuta."
+    "translation": "{{.first_name}} stize za {{.minutes}} minuta."
   },
   {
     "id": "message_2",
